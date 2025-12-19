@@ -58,4 +58,3 @@ A prototype notebook demonstrates:
 - Database storage of embeddings
 - Security & liveness detection
 
-
