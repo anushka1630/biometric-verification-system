@@ -59,5 +59,3 @@ A prototype notebook demonstrates:
 - Security & liveness detection
 
 
-B.Tech – Pharmaceutical Engineering & Technology  
-Interest Areas: Data Analysis, AI/ML, Applied Systems
